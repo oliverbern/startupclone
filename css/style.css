@@ -232,7 +232,8 @@ button {
 .social hr {
 	border: 0;
 	border-top: 1px solid #eaebec;
-	margin: 1.313rem 0;
+	margin: 1.313rem auto;
+	
 }
 
 .social .icons li {
