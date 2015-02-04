@@ -134,7 +134,7 @@ ul {
 background-image: url('../images/first-background.jpg');
 background-position: center bottom;
 background-repeat: no-repeat;
-background-position: 0 bottom
+background-position: 0 bottom;
 background-size: cover;
 height: 45.938rem;
 overflow: auto;
@@ -233,7 +233,7 @@ button {
 	border: 0;
 	border-top: 1px solid #eaebec;
 	margin: 1.313rem auto;
-	
+
 }
 
 .social .icons li {
