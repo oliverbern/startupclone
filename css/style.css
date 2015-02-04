@@ -236,13 +236,13 @@ button {
 }
 
 .social .icons li {
-	border-radius: 1.25rem;
+	border-radius: 50%;
 	width: 2.5rem;
 	height: 2.5rem;
 	display: inline-block;
 	margin: 1.25rem 5px;
 	border: 1px solid #eaebec;
-	padding: 0.625rem 0;
+	/*padding: 0.625rem 0;*/
 	text-align:  center;
 }
 
