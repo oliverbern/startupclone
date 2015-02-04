@@ -54,11 +54,14 @@ table {
 body {
 	background-color: LightGray;
 	font-family: 'Roboto', sans-serif;
+	font-size: 16px; 
+	color: #838994; 
+	letter-spacing: 0.03em;
 	-webkit-font-smoothing: antialiased;
 }
 
 div {
-	/*border: 1px solid Chocolate; */
+	border: 1px solid Chocolate; */
 }
 
 /* Customization CSS */
@@ -77,7 +80,7 @@ div {
 
 .content {
 	width: 60rem;
-	padding: 0 0.938rem;
+	padding: 0 15px;
 	margin: 0 auto;
 	min-width: 37.5rem;
 }
@@ -91,6 +94,7 @@ div {
 	color: #838994;
 	font-size: 1.04rem;
 	margin-top: 1rem;
+	-webkit-font-smoothing: antialiased;
 }
 
 .top-navigation .links li {
@@ -100,14 +104,6 @@ div {
 
 ul {
 	list-style: none;
-	display: block;
-	vertical-align: baseline;
-	font: inherit;
-	-webkit-margin-before: 1em;
-		-webkit-margin-after: 1em;
-			-webkit-margin-start: 0px;
-				-webkit-margin-end: 0px;
-						-webkit-padding-start: 40px;
 }
 
 .top-navigation .links li.active {
@@ -119,7 +115,6 @@ ul {
     cursor: pointer;
     color: #333333;
 }
-
 
 
 
